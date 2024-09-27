@@ -1,10 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("hello1");
-        System.out.println("lagi");
-        System.out.println("walaweh");
-        System.out.println("haii");
-        System.out.println("hmm");
+        System.out.println("Nama    : Dandy Dzakwan Budiman");
+        System.out.println("NIM     : 607062400063");
+        System.out.println("Kelas   : D3IF-4803");
     }
 }
